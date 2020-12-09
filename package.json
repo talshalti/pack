@@ -2,7 +2,7 @@
     "name": "pack",
     "displayName": "pack",
     "description": "packing extensions",
-    "version": "0.1.0",
+    "version": "1.0.0",
     "publisher": "talshalti",
     "engines": {
         "vscode": "^1.51.0"
