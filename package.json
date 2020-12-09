@@ -2,7 +2,7 @@
     "name": "pack",
     "displayName": "pack",
     "description": "packing extensions",
-    "version": "1.0.0",
+    "version": "1.1.0",
     "publisher": "talshalti",
     "engines": {
         "vscode": "^1.51.0"
@@ -25,7 +25,7 @@
         "ms-vscode-remote.remote-ssh",
         "ms-vscode-remote.remote-ssh-edit",
         "ms-vscode.cpptools-themes",
-		"ms-vscode.cmake-tools",
+        "ms-vscode.cmake-tools",
         "talshalti.netron",
         "shardulm94.trailing-spaces",
         "matepek.vscode-catch2-test-adapter"
